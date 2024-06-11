@@ -26,3 +26,7 @@ The project aims to implement a transport protocol enhancing UDP's reliability t
 
 ## Simulated Loss:
 To simulate network conditions, random packet loss (5%-15%) is introduced by randomly dropping received packets at the receiver.
+
+<p align="center">
+<img src="https://github.com/Bosy-Ayman/Go-Back-N/assets/112729185/3f418446-c433-470b-a704-f3104af5fa2d" alt="Simulated Loss" width="700">
+</p>
